@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/SDPintroduce/static/css/main.d77e125b.chunk.css",
+    "main.js": "/SDPintroduce/static/js/main.bebff8f0.chunk.js",
+    "main.js.map": "/SDPintroduce/static/js/main.bebff8f0.chunk.js.map",
+    "runtime-main.js": "/SDPintroduce/static/js/runtime-main.942ca5e1.js",
+    "runtime-main.js.map": "/SDPintroduce/static/js/runtime-main.942ca5e1.js.map",
+    "static/js/2.fb706dcf.chunk.js": "/SDPintroduce/static/js/2.fb706dcf.chunk.js",
+    "static/js/2.fb706dcf.chunk.js.map": "/SDPintroduce/static/js/2.fb706dcf.chunk.js.map",
+    "static/js/3.c789d80e.chunk.js": "/SDPintroduce/static/js/3.c789d80e.chunk.js",
+    "static/js/3.c789d80e.chunk.js.map": "/SDPintroduce/static/js/3.c789d80e.chunk.js.map",
+    "index.html": "/SDPintroduce/index.html",
+    "static/css/main.d77e125b.chunk.css.map": "/SDPintroduce/static/css/main.d77e125b.chunk.css.map",
+    "static/js/2.fb706dcf.chunk.js.LICENSE.txt": "/SDPintroduce/static/js/2.fb706dcf.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/SDPintroduce/static/media/ChakraPetch-Regular.3ece37a6.ttf",
+    "static/media/picture.css": "/SDPintroduce/static/media/sitright.cca37fe0.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.942ca5e1.js",
+    "static/js/2.fb706dcf.chunk.js",
+    "static/css/main.d77e125b.chunk.css",
+    "static/js/main.bebff8f0.chunk.js"
+  ]
+}
